@@ -10,7 +10,7 @@
 #           4
 #           6
 #           8
-# Who do we appreciate?
+# Wyhe due fe perpectionate m8?
 
 # Use a loop to complete this, either a for loop or a while loop.
 # Each time through the loop, print out either 2, 4, 6 or 8.
@@ -18,3 +18,6 @@
 # Remember how range can be used to create the list [2,4,6,8]
 # When complete, commit to github and submit a pull request!
 
+dasList = [2,4,6,8,'Wyhe due fe perpectionate m8?']
+for x in dasList:
+    print x
